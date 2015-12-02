@@ -1,0 +1,20 @@
+{
+  "name": "kube-test-utils",
+  "version": "1.0.0",
+  "description": "Testing utilities for node projects using Kubernetes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/andrewosh/kube-test-utils"
+  },
+  "keywords": [
+    "kubernetes",
+    "kube",
+    "test"
+  ],
+  "author": "Andrew Osheroff",
+  "license": "Apache-2.0"
+}
