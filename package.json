@@ -1,6 +1,6 @@
 {
   "name": "kube-test-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Testing utilities for node projects using Kubernetes",
   "main": "index.js",
   "scripts": {
